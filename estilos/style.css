@@ -39,3 +39,11 @@ section#telefone {
 
   background: url('../imagens/frame-iphone.png') no-repeat;
 }
+
+iframe {
+    width: 268px;
+    height: 471.5px;
+    position: relative;
+    top: 80px;
+    left: 22px
+}
